@@ -1,4 +1,4 @@
-Markdown# Ticaretify - Full-Stack E-Commerce Platform
+# Ticaretify - Full-Stack E-Commerce Platform
 
 Ticaretify is a dynamic, secure, and fully responsive full-stack e-commerce web application developed as a comprehensive graduation project[cite: 2]. The platform manages end-to-end e-commerce operations—covering user authentication, dynamic product discovery, session-backed cart architectures, automated relational checkout workflows, and personalized wishlists[cite: 3, 4, 5, 8, 18].
 
